@@ -2,7 +2,7 @@
  * EdTech Quiz Logic Controller (Hỗ trợ Trắc nghiệm, Tự luận dài & Điền từ ngắn)
  */
 
-const FIREBASE_URL = "https://ontap-59972-default-rtdb.firebaseio.com/quizStats.json";
+const FIREBASE_URL = "https://ontap-59972-default-rtdb.firebaseio.com/quizStats2.json";
 
 document.addEventListener("DOMContentLoaded", () => {
     let questions = [];
