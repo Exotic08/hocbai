@@ -266,35 +266,35 @@ answer3: aim
 answer4: is aiming
 Key: 4
 
-Ask41: Choose the suitable word for blank (1): The Meadow Park Zoo, (1)________ opened three months ago, is already attracting large numbers of visitors.
+Ask41: [ĐỌC ĐOẠN VĂN]: The Meadow Park Zoo, (1)___ opened three months ago, is already attracting large numbers of visitors. The new zoo is quite small, compared with other similar (2)___. You won’t find any large and dangerous animals such as lions or tigers in cages. Instead, there is a children’s zoo, where children can handle little animals like rabbits and (3)___. They can also have rides on a camel or an elephant. The zoo had a working farm, too, with cows, sheep, ducks and chickens. Lots of children from cities don’t understand what happens (4)___ a farm. It’s important for them to (5)___ see for themselves where their milk and eggs come from. 👉 CHỌN TỪ CHO LỖ TRỐNG SỐ (1):
 answer1: where
 answer2: what
 answer3: which
 answer4: when
 Key: 3
 
-Ask42: Choose the suitable word for blank (2): The new zoo is quite small, compared with other similar (2)________.
+Ask42: [ĐỌC ĐOẠN VĂN]: The Meadow Park Zoo, (1)___ opened three months ago, is already attracting large numbers of visitors. The new zoo is quite small, compared with other similar (2)___. You won’t find any large and dangerous animals such as lions or tigers in cages. Instead, there is a children’s zoo, where children can handle little animals like rabbits and (3)___. They can also have rides on a camel or an elephant. The zoo had a working farm, too, with cows, sheep, ducks and chickens. Lots of children from cities don’t understand what happens (4)___ a farm. It’s important for them to (5)___ see for themselves where their milk and eggs come from. 👉 CHỌN TỪ CHO LỖ TRỐNG SỐ (2):
 answer1: parties
 answer2: attractions
 answer3: schools
 answer4: events
 Key: 2
 
-Ask43: Choose the suitable word for blank (3): ...where children can handle little animals like rabbits and (3)________.
+Ask43: [ĐỌC ĐOẠN VĂN]: The Meadow Park Zoo, (1)___ opened three months ago, is already attracting large numbers of visitors. The new zoo is quite small, compared with other similar (2)___. You won’t find any large and dangerous animals such as lions or tigers in cages. Instead, there is a children’s zoo, where children can handle little animals like rabbits and (3)___. They can also have rides on a camel or an elephant. The zoo had a working farm, too, with cows, sheep, ducks and chickens. Lots of children from cities don’t understand what happens (4)___ a farm. It’s important for them to (5)___ see for themselves where their milk and eggs come from. 👉 CHỌN TỪ CHO LỖ TRỐNG SỐ (3):
 answer1: hippos
 answer2: bears
 answer3: crocodiles
 answer4: mice
 Key: 4
 
-Ask44: Choose the suitable word for blank (4): Lots of children from cities don’t understand what happens (4)________ a farm.
+Ask44: [ĐỌC ĐOẠN VĂN]: The Meadow Park Zoo, (1)___ opened three months ago, is already attracting large numbers of visitors. The new zoo is quite small, compared with other similar (2)___. You won’t find any large and dangerous animals such as lions or tigers in cages. Instead, there is a children’s zoo, where children can handle little animals like rabbits and (3)___. They can also have rides on a camel or an elephant. The zoo had a working farm, too, with cows, sheep, ducks and chickens. Lots of children from cities don’t understand what happens (4)___ a farm. It’s important for them to (5)___ see for themselves where their milk and eggs come from. 👉 CHỌN TỪ CHO LỖ TRỐNG SỐ (4):
 answer1: across
 answer2: for
 answer3: on
 answer4: up
 Key: 3
 
-Ask45: Choose the suitable word for blank (5): It’s important for them to (5)________ see for themselves where their milk and eggs come from.
+Ask45: [ĐỌC ĐOẠN VĂN]: The Meadow Park Zoo, (1)___ opened three months ago, is already attracting large numbers of visitors. The new zoo is quite small, compared with other similar (2)___. You won’t find any large and dangerous animals such as lions or tigers in cages. Instead, there is a children’s zoo, where children can handle little animals like rabbits and (3)___. They can also have rides on a camel or an elephant. The zoo had a working farm, too, with cows, sheep, ducks and chickens. Lots of children from cities don’t understand what happens (4)___ a farm. It’s important for them to (5)___ see for themselves where their milk and eggs come from. 👉 CHỌN TỪ CHO LỖ TRỐNG SỐ (5):
 answer1: see
 answer2: saw
 answer3: seeing
@@ -405,35 +405,35 @@ Ask62: Give the correct form of the word in bracket: The parents of the groom go
 Type: short
 Key: celebrate
 
-Ask63: Read the passage. The main purpose of the laptop program is to give each student a laptop to ______.
+Ask63: [ĐỌC ĐOẠN VĂN SAU]: Laptop computers are popular all over the world. They connect people to their workplace. In the United States today, laptops also connect students to their classroom. Westlake College in Virginia will start a laptop computer program that allows students to do schoolwork anywhere they want. Within five years, each of the 1,500 students at the college will receive a laptop. The laptop is a part of a $10 million computer program at Westlake, 100-year-old college. The students with laptops will also have access to the Internet. In addition, they will be able to use e-mail to ‘speak’ with their teachers, their classmates and their families. However, the most important part of the laptop program is that students will be able to use computers without going to computer labs. They can work with it at home, in a fast food restaurant or under the trees - anywhere at all! The portable computers can connect students to not only the Internet, but also libraries and other resources. State higher education officials are studying how laptops can help students. State officials are also use testing laptop program at other universities, too. At Westlake College, more than 60 percent of the staff uses computers. The laptops will allow all teachers to use computers in their lesson. As one Westlake teacher said: “Here we are in the middle of Virginia and we’re giving students a window on the world. They can see everything and do everything”. 👉 CÂU HỎI: The main purpose of the laptop program is to give each student a laptop to ______.
 answer1: use for their schoolwork
 answer2: access the Internet
 answer3: connect them to libraries
 answer4: work at home
 Key: 1
 
-Ask64: What does the word “they” in the second paragraph refer to?
+Ask64: [ĐỌC ĐOẠN VĂN SAU]: Laptop computers are popular all over the world. They connect people to their workplace... (như trên)... As one Westlake teacher said: “Here we are in the middle of Virginia and we’re giving students a window on the world. They can see everything and do everything”. 👉 CÂU HỎI: What does the word “they” in the second paragraph refer to?
 answer1: laptops
 answer2: classmates
 answer3: students
 answer4: computer programs
 Key: 3
 
-Ask65: Which of the following is true about Westlake College?
+Ask65: [ĐỌC ĐOẠN VĂN SAU]: Laptop computers are popular all over the world. They connect people to their workplace... (như trên)... As one Westlake teacher said: “Here we are in the middle of Virginia and we’re giving students a window on the world. They can see everything and do everything”. 👉 CÂU HỎI: Which of the following is true about Westlake College?
 answer1: It is an old college in America.
 answer2: Students there can do everything.
 answer3: 1500 students have laptops.
 answer4: All teachers use computers.
 Key: 2
 
-Ask66: “A window on the world” in the last paragraph means that students can ______.
+Ask66: [ĐỌC ĐOẠN VĂN SAU]: Laptop computers are popular all over the world. They connect people to their workplace... (như trên)... As one Westlake teacher said: “Here we are in the middle of Virginia and we’re giving students a window on the world. They can see everything and do everything”. 👉 CÂU HỎI: “A window on the world” in the last paragraph means that students can ______.
 answer1: attend lectures on IT
 answer2: travel around the world
 answer3: get information from around the world
 answer4: have free laptops
 Key: 2
 
-Ask67: What does the passage mainly talk about?
+Ask67: [ĐỌC ĐOẠN VĂN SAU]: Laptop computers are popular all over the world. They connect people to their workplace... (như trên)... As one Westlake teacher said: “Here we are in the middle of Virginia and we’re giving students a window on the world. They can see everything and do everything”. 👉 CÂU HỎI: What does the passage mainly talk about?
 answer1: A window on the world
 answer2: Computer programs
 answer3: Westlake College
