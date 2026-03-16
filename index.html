@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EdTech Quiz Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>Hệ thống Trắc nghiệm Tự đánh giá</h1>
+            <div class="header-controls">
+                <div id="attempts-display" class="badge">Số lượt làm bài: <span>...</span></div>
+                <div id="timer-display" class="timer hidden">Thời gian: <span>00:00</span></div>
+            </div>
+        </header>
+
+        <main id="loading-section" class="section">
+            <p>Đang tải dữ liệu bài thi...</p>
+        </main>
+
+        <main id="quiz-section" class="section hidden">
+            <form id="quiz-form">
+                <div id="questions-container"></div>
+                <button type="submit" class="btn btn-primary">Nộp bài</button>
+            </form>
+        </main>
+
+        <main id="result-section" class="section hidden">
+            <div class="result-summary">
+                <h2>Kết quả bài làm</h2>
+                <div class="stats">
+                    <div class="stat-box">
+                        <span class="stat-label">Điểm số</span>
+                        <span id="score-display" class="stat-value">0/0</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Tỷ lệ chính xác</span>
+                        <span id="accuracy-display" class="stat-value">0%</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Thời gian hoàn thành</span>
+                        <span id="time-display" class="stat-value">00:00</span>
+                    </div>
+                </div>
+                <button id="retake-btn" class="btn btn-secondary">Làm lại bài thi</button>
+            </div>
+            
+            <div class="detailed-review">
+                <h3>Đánh giá chi tiết</h3>
+                <div id="review-container"></div>
+            </div>
+        </main>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>
