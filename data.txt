@@ -1,0 +1,441 @@
+Ask1: Find the word which has a different sound in the part underlined: messaged / received / showed / painted.
+answer1: messaged
+answer2: received
+answer3: showed
+answer4: painted
+Key: 4
+
+Ask2: Find the word which has a different sound in the part underlined: minute / little / final / favorite.
+answer1: minute
+answer2: little
+answer3: final
+answer4: favorite
+Key: 3
+
+Ask3: Find the word which has a different sound in the part underlined: looked / stopped / missed / invited.
+answer1: looked
+answer2: stopped
+answer3: missed
+answer4: invited
+Key: 4
+
+Ask4: Find the word which has a different sound in the part underlined: internet / include / notice / decide.
+answer1: internet
+answer2: include
+answer3: notice
+answer4: decide
+Key: 4
+
+Ask5: Find the word which has a different sound in the part underlined: clean / bread / beach / heat.
+answer1: clean
+answer2: bread
+answer3: beach
+answer4: heat
+Key: 2
+
+Ask6: Find the word which has a different sound in the part underlined: decided / wanted / mended / played.
+answer1: decided
+answer2: wanted
+answer3: mended
+answer4: played
+Key: 4
+
+Ask7: Find the word which has a different sound in the part underlined: head / spread / cream / bread.
+answer1: head
+answer2: spread
+answer3: cream
+answer4: bread
+Key: 3
+
+Ask8: Find the word which has a different sound in the part underlined: played / delayed / arrived / decided.
+answer1: played
+answer2: delayed
+answer3: arrived
+answer4: decided
+Key: 4
+
+Ask9: Choose the word which has a different stress pattern: useful / tablet / exam / classmate.
+answer1: useful
+answer2: tablet
+answer3: exam
+answer4: classmate
+Key: 3
+
+Ask10: Choose the word which has a different stress pattern: explanation / application / independent / important.
+answer1: explanation
+answer2: application
+answer3: independent
+answer4: important
+Key: 4
+
+Ask11: Choose the word which has a different stress pattern: rebuild / invest / measure / reuse.
+answer1: rebuild
+answer2: invest
+answer3: measure
+answer4: reuse
+Key: 3
+
+Ask12: Choose the word which has a different stress pattern: discover / difficult / invention / important.
+answer1: discover
+answer2: difficult
+answer3: invention
+answer4: important
+Key: 2
+
+Ask13: Education is important in fighting ______ gender equality.
+answer1: in
+answer2: with
+answer3: for
+answer4: to
+Key: 3
+
+Ask14: The WTO is the world's largest international economic ______.
+answer1: communities
+answer2: programmes
+answer3: businesses
+answer4: organisations
+Key: 4
+
+Ask15: ______ learning allows us to communicate with teachers immediately and directly.
+answer1: Face-to-face
+answer2: Online
+answer3: Indirect
+answer4: Blended
+Key: 1
+
+Ask16: Joining the WTO has helped Viet Nam ______ its economic growth.
+answer1: provide
+answer2: promote
+answer3: prevent
+answer4: predict
+Key: 2
+
+Ask17: ______ learning combines online videos with traditional classroom methods.
+answer1: Face-to-face
+answer2: Online
+answer3: Indirect
+answer4: Blended
+Key: 4
+
+Ask18: Men and women ought to ______ equal rights.
+answer1: be given
+answer2: given
+answer3: be giving
+answer4: give
+Key: 1
+
+Ask19: Over the past few years, Viet Nam has become one of ______ destinations for foreign visitors in Southeast Asia.
+answer1: more popular
+answer2: the most popular
+answer3: popular
+answer4: most popular
+Key: 2
+
+Ask20: This computer, ______ I often use to learn English, is a birthday present from my father.
+answer1: which
+answer2: that
+answer3: whose
+answer4: who
+Key: 1
+
+Ask21: Nam, ______ father is a famous surgeon, wants to go to medical school.
+answer1: which
+answer2: whose
+answer3: who
+answer4: that
+Key: 2
+
+Ask22: The hotel was ______ than any one we had stayed at before.
+answer1: more expensive
+answer2: as expensive
+answer3: most expensive
+answer4: better expensive
+Key: 1
+
+Ask23: Using digital devices in class can help students improve their ______ experience in many ways.
+answer1: education
+answer2: technical
+answer3: educational
+answer4: learn
+Key: 3
+
+Ask24: UNICEF particularly ______ to support the most disadvantaged children.
+answer1: aims
+answer2: aimed
+answer3: aim
+answer4: is aiming
+Key: 4
+
+Ask25: Give the correct form of the word in bracket: All teenagers should be encouraged to continue their ______ (educate).
+Type: short
+Key: education
+
+Ask26: Give the correct form of the word in bracket: More men are now taking jobs ______ (tradition) done by women.
+Type: short
+Key: traditionally
+
+Ask27: Give the correct form of the word in bracket: The government has done a lot to promote gender ______ (equal) in education and healthcare.
+Type: short
+Key: equality
+
+Ask28: Give the correct form of the word in bracket: ______ (educate) gives girls the opportunity to have a better life.
+Type: short
+Key: education
+
+Ask29: If women have to do too much housework, they cannot focus ______ their jobs.
+answer1: in
+answer2: on
+answer3: for
+answer4: from
+Key: 2
+
+Ask30: Viet Nam is a member of many international ______.
+answer1: communities
+answer2: programmes
+answer3: businesses
+answer4: organisations
+Key: 4
+
+Ask31: Jobs that are traditionally done by women are normally ______ jobs.
+answer1: well-paid
+answer2: high-paying
+answer3: well-paying
+answer4: low-paying
+Key: 4
+
+Ask32: Teachers ______ the role of a guide for them and prepare students for lifelong learning.
+answer1: play
+answer2: make
+answer3: put
+answer4: do
+Key: 1
+
+Ask33: One benefit of ______ learning is that you can learn anytime and anywhere.
+answer1: direct
+answer2: face-to-face
+answer3: online
+answer4: blended
+Key: 3
+
+Ask34: All girls must ______ with access to education.
+answer1: be provided
+answer2: provided
+answer3: provide
+answer4: be providing
+Key: 1
+
+Ask35: Some universities in Viet Nam have become ______ to foreign students than before.
+answer1: the most attractive
+answer2: more attractive
+answer3: attractive
+answer4: most attractive
+Key: 2
+
+Ask36: He bought all the books ______ he needs for his English course.
+answer1: that
+answer2: who
+answer3: whose
+answer4: whom
+Key: 1
+
+Ask37: This is Mrs. Jones, ______ son won the championship last year.
+answer1: which
+answer2: whose
+answer3: who
+answer4: that
+Key: 2
+
+Ask38: This hotel must be ______ than the small one next door.
+answer1: expensive
+answer2: more expensive
+answer3: the most expensive
+answer4: the more expensive
+Key: 2
+
+Ask39: I can easily scan a page of a book with a ______ camera on a smartphone.
+answer1: digital
+answer2: similar
+answer3: financial
+answer4: native
+Key: 1
+
+Ask40: This environmental organisation ______ to protect local forests.
+answer1: aims
+answer2: aimed
+answer3: aim
+answer4: is aiming
+Key: 4
+
+Ask41: Choose the suitable word for blank (1): The Meadow Park Zoo, (1)________ opened three months ago, is already attracting large numbers of visitors.
+answer1: where
+answer2: what
+answer3: which
+answer4: when
+Key: 3
+
+Ask42: Choose the suitable word for blank (2): The new zoo is quite small, compared with other similar (2)________.
+answer1: parties
+answer2: attractions
+answer3: schools
+answer4: events
+Key: 2
+
+Ask43: Choose the suitable word for blank (3): ...where children can handle little animals like rabbits and (3)________.
+answer1: hippos
+answer2: bears
+answer3: crocodiles
+answer4: mice
+Key: 4
+
+Ask44: Choose the suitable word for blank (4): Lots of children from cities don’t understand what happens (4)________ a farm.
+answer1: across
+answer2: for
+answer3: on
+answer4: up
+Key: 3
+
+Ask45: Choose the suitable word for blank (5): It’s important for them to (5)________ see for themselves where their milk and eggs come from.
+answer1: see
+answer2: saw
+answer3: seeing
+answer4: seen
+Key: 1
+
+Ask46: Gender equality is also a part of the ______ to the challenges facing society.
+answer1: solution
+answer2: solute
+answer3: solves
+answer4: solve
+Key: 1
+
+Ask47: Reducing gender ______ improves productivity and economic growth of a nation.
+answer1: equality
+answer2: inequality
+answer3: possibility
+answer4: rights
+Key: 2
+
+Ask48: The International Red Cross and Red Crescent ______ occurs once every four years.
+answer1: Nations
+answer2: Society
+answer3: Conference
+answer4: Globe
+Key: 3
+
+Ask49: Most children's television programmes aim to ______ and entertain at the same time.
+answer1: educate
+answer2: education
+answer3: educational
+answer4: educated
+Key: 1
+
+Ask50: You should ______ the lights to save electricity before going out.
+answer1: turn on
+answer2: turn round
+answer3: turn off
+answer4: turn up
+Key: 3
+
+Ask51: In many parts of the world, forests are being cut ______ to make land for farming.
+answer1: down
+answer2: off
+answer3: out
+answer4: in
+Key: 3
+
+Ask52: English is thought to be ______ than Math.
+answer1: the more hard
+answer2: harder
+answer3: hardest
+answer4: the hardest
+Key: 2
+
+Ask53: The woman ______ lives next my door is doctor.
+answer1: whose
+answer2: whom
+answer3: which
+answer4: who
+Key: 4
+
+Ask54: The work can ______ next week by the workers.
+answer1: be finish
+answer2: be finishing
+answer3: be finished
+answer4: finished
+Key: 3
+
+Ask55: China is the country with ______ population.
+answer1: the larger
+answer2: the more large
+answer3: the largest
+answer4: the most large
+Key: 3
+
+Ask56: Bicycles ______ in the driveway.
+answer1: must not be left
+answer2: must not left
+answer3: must not leaving
+answer4: must not be leave
+Key: 1
+
+Ask57: The land and the people ______ I have met are nice.
+answer1: who
+answer2: whom
+answer3: which
+answer4: that
+Key: 4
+
+Ask58: Give the correct form of the word in bracket: Men and women should be treated ______ (equal) at work.
+Type: short
+Key: equally
+
+Ask59: Give the correct form of the word in bracket: Until now, the high cost of schooling has ______ (courage) or prevented poor parents from sending their children to school.
+Type: short
+Key: discouraged
+
+Ask60: Give the correct form of the word in bracket: Digital devices offer an opportunity to ______ (educate) students about media use.
+Type: short
+Key: educate
+
+Ask61: Give the correct form of the word in bracket: An interactive whiteboard is an ______ (electricity) device that helps students...
+Type: short
+Key: electronic
+
+Ask62: Give the correct form of the word in bracket: The parents of the groom go to the fortune teller to see what date and time is best for them to ______ (celebration) the wedding ceremony.
+Type: short
+Key: celebrate
+
+Ask63: Read the passage. The main purpose of the laptop program is to give each student a laptop to ______.
+answer1: use for their schoolwork
+answer2: access the Internet
+answer3: connect them to libraries
+answer4: work at home
+Key: 1
+
+Ask64: What does the word “they” in the second paragraph refer to?
+answer1: laptops
+answer2: classmates
+answer3: students
+answer4: computer programs
+Key: 3
+
+Ask65: Which of the following is true about Westlake College?
+answer1: It is an old college in America.
+answer2: Students there can do everything.
+answer3: 1500 students have laptops.
+answer4: All teachers use computers.
+Key: 2
+
+Ask66: “A window on the world” in the last paragraph means that students can ______.
+answer1: attend lectures on IT
+answer2: travel around the world
+answer3: get information from around the world
+answer4: have free laptops
+Key: 2
+
+Ask67: What does the passage mainly talk about?
+answer1: A window on the world
+answer2: Computer programs
+answer3: Westlake College
+answer4: Laptop
+Key: 4
