@@ -164,7 +164,7 @@ answer1: aims
 answer2: aimed
 answer3: aim
 answer4: is aiming
-Key: 4
+Key: 1
 
 Ask25: Give the correct form of the word in bracket: All teenagers should be encouraged to continue their ______ (educate).
 Type: short
@@ -264,7 +264,7 @@ answer1: aims
 answer2: aimed
 answer3: aim
 answer4: is aiming
-Key: 4
+Key: 1
 
 Ask41: [ĐỌC ĐOẠN VĂN]: The Meadow Park Zoo, (1)___ opened three months ago, is already attracting large numbers of visitors. The new zoo is quite small, compared with other similar (2)___. You won’t find any large and dangerous animals such as lions or tigers in cages. Instead, there is a children’s zoo, where children can handle little animals like rabbits and (3)___. They can also have rides on a camel or an elephant. The zoo had a working farm, too, with cows, sheep, ducks and chickens. Lots of children from cities don’t understand what happens (4)___ a farm. It’s important for them to (5)___ see for themselves where their milk and eggs come from. 👉 CHỌN TỪ CHO LỖ TRỐNG SỐ (1):
 answer1: where
