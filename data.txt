@@ -341,7 +341,7 @@ answer1: down
 answer2: off
 answer3: out
 answer4: in
-Key: 3
+Key: 1
 
 Ask52: English is thought to be ______ than Math.
 answer1: the more hard
