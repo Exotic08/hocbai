@@ -424,14 +424,14 @@ answer1: It is an old college in America.
 answer2: Students there can do everything.
 answer3: 1500 students have laptops.
 answer4: All teachers use computers.
-Key: 2
+Key: 1
 
 Ask66: [ĐỌC ĐOẠN VĂN SAU]: Laptop computers are popular all over the world. They connect people to their workplace... (như trên)... As one Westlake teacher said: “Here we are in the middle of Virginia and we’re giving students a window on the world. They can see everything and do everything”. 👉 CÂU HỎI: “A window on the world” in the last paragraph means that students can ______.
 answer1: attend lectures on IT
 answer2: travel around the world
 answer3: get information from around the world
 answer4: have free laptops
-Key: 2
+Key: 3
 
 Ask67: [ĐỌC ĐOẠN VĂN SAU]: Laptop computers are popular all over the world. They connect people to their workplace... (như trên)... As one Westlake teacher said: “Here we are in the middle of Virginia and we’re giving students a window on the world. They can see everything and do everything”. 👉 CÂU HỎI: What does the passage mainly talk about?
 answer1: A window on the world
